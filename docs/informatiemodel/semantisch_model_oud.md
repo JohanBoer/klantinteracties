@@ -10,6 +10,13 @@ date: 19-10-2023
 Binnen VNG Realisatie wordt Enterprise Architect (EA) gebruikt voor de vastlegging van semantische informatiemodellen (SIM). 
 Onderstaand zijn de diagrammen van de oude versies van het infromatiemodel weergegeven en zijn de wijzigingen opgesomd die in het nieuwe model zijn doorgevoerd. 
 
+## Van versie 0.0.6 naar 0.0.7 (onderhanden)
+Onderstaand figuur geeft de modellering van het SIM versie 0.0.6 weer zoals deze in EA was gemodelleerd.
+
+De wijzigingen die in versie 0.0.7 zijn doorgevoerd t.o.v. deze versie zijn: 
+  - Bij *Interne Taak* is de eigenschap "toegewezen op" hernoemd naar *verwerkt op* .
+
+
 ## Van versie 0.0.5 naar 0.0.6 (19-10-2023)
 Onderstaand figuur geeft de modellering van het SIM versie 0.0.5 weer zoals deze in EA was gemodelleerd.
 
