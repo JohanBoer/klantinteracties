@@ -25,6 +25,18 @@ date: 02-06-2022
 | [F8618 - Vraag klantcontact op](./artefacten/8618.md) | `klantcontact` | `betrokkenen`, `bijlage`, `interne taak` | |
 | [F2084 - Vraag overzicht van klantcontacten op](./artfacten/2084.md) | `klantcontact` | | |
 
+## Digitaal adres
+
+| Code - Naam | Hoofdobject | Gerelateerde objecten | Opmerkingen |
+| :--- | :--- | :--- | :--- |
+| [F6634 - Zoek Digitaal adres](./artefacten/6634.md) | `Digitaal adres` | | |
+
+## PartijIdentificator
+
+| Code - Naam | Hoofdobject | Gerelateerde objecten | Opmerkingen |
+| :--- | :--- | :--- | :--- |
+| [F5817 - Zoek Partijidentificator](./artefacten/5817.md) | `Partijidentificator` | | |
+
 ## Interne taak
 
 | Code - Naam | Hoofdobject | Gerelateerde objecten | Opmerkingen |
