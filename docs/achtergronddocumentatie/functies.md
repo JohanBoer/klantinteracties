@@ -1,7 +1,7 @@
 ---
 layout: page-with-side-nav
 title: Functies voor Klantinteracties
-date: 02-06-2022
+date: 05-12-2023
 ---
 
 # Functies
@@ -11,8 +11,9 @@ date: 02-06-2022
 | Code - Naam | Hoofdobject | Gerelateerde objecten | Opmerkingen |
 | :--- | :--- | :--- | :--- |
 | [F7927 - Zoek partij](./artefacten/7927.md) | `partij` | | |
-| [F0138 - Vraag partij op](./artefacten/0138.md) | `partij` | `digitaal adres` |
-| [F7554 - Registreer partij](./artefacten/7554.md) | `partij` | `digitaal adres` |
+| [F0138 - Vraag partij op](./artefacten/0138.md) | `partij` | `digitaal adres` & `partijidentificator` |
+| [F7554 - Registreer partij](./artefacten/7554.md) | `partij` | `digitaal adres` & `partijidentificator` |
+| [F2158 - Wijzig partij](./artefacten/2158.md) | `partij` | `digitaal adres` & `partijidentificator` |
 | [F6580 - Registreer contactgegevens bij partij](./artefacten/6580.md) | `partij` | `digitaal adres` |
 
 ## Klantcontact
