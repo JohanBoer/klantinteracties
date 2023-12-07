@@ -14,7 +14,9 @@ Onderstaand zijn de diagrammen van de oude versies van het infromatiemodel weerg
 Onderstaand figuur geeft de modellering van het SIM versie 0.0.6 weer zoals deze in EA was gemodelleerd.
 
 De wijzigingen die in versie 0.0.7 zijn doorgevoerd t.o.v. deze versie zijn: 
-  - Bij *Interne Taak* is de eigenschap "toegewezen op" hernoemd naar *verwerkt op* .
+  - Bij `Interne Taak` is de eigenschap "toegewezen op" hernoemd naar *verwerkt op* .
+  - Bij `Onderwerpobject` is de eigenschap *objectidentificator*  hernoemd naar *onderwerpobjectidentificator*
+  - Bij `Bijlage` is de eigenschap *objectidentificator* hernoemd naar *bijlageidentificator* 
 
 
 ## Van versie 0.0.5 naar 0.0.6 (19-10-2023)
@@ -23,8 +25,8 @@ Onderstaand figuur geeft de modellering van het SIM versie 0.0.5 weer zoals deze
 <img src="assets/SIM_Klantinteracties_v005.png" alt="SIM in Enterprise Architect" width="1000"/>
 
 De wijzigingen die in versie 0.0.6 zijn doorgevoerd t.o.v. deze versie zijn: 
-  - Het *inhoudsobject* is hernoemd naar *bijlage* .
-    - Bij de *bijlage* is een toelichting opgenomen.
+  - Het `inhoudsobject` is hernoemd naar `bijlage` .
+    - Bij de `bijlage` is een toelichting opgenomen.
   - *ander object* is verwijderd uit het model.
     - De lijst met objecten en registraties waarnaar verwezen kan worden vanuit Klantinteracties is niet uitputtend te maken. 
       De generieke modellering van de verwijzing faciliteert dat ook. Er wordt aan de definitie van bijlage en onderwerpobject
