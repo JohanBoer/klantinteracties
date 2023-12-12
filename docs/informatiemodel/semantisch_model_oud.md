@@ -16,7 +16,8 @@ Onderstaand figuur geeft de modellering van het SIM versie 0.0.6 weer zoals deze
 De wijzigingen die in versie 0.0.7 zijn doorgevoerd t.o.v. deze versie zijn: 
   - Bij `Interne Taak` is de eigenschap "toegewezen op" hernoemd naar *verwerkt op* .
   - Bij `Onderwerpobject` is de eigenschap *objectidentificator*  hernoemd naar *onderwerpobjectidentificator*
-  - Bij `Bijlage` is de eigenschap *objectidentificator* hernoemd naar *bijlageidentificator* 
+  - Bij `Bijlage` is de eigenschap *objectidentificator* hernoemd naar *bijlageidentificator*
+  - De relatie *had* tussen `klantcontact` en `betrokkeneBijKlantcontact`is gewijzigd van 0..* naar 1..*. Een `klantcontact` heeft dus altijd minimaal 1 gerelateerde `betrokkeneBijKlantcontact`.
 
 
 ## Van versie 0.0.5 naar 0.0.6 (19-10-2023)
